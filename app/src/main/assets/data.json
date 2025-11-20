@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": "cat01",
+      "name": "Cakapan Bahisya sehari-hari",
+      "description": "Cara bercakapan dalam bahasa isyarat yang sering digunakan dalam percakapan sehari-hari.",
+      "videos": [
+        {
+          "id": "vid0101",
+          "title": "Sapa dan Perkenalan",
+          "fileName": "Sapa_dan_perkenalan.mp4"
+        },
+        {
+          "id": "vid0102",
+          "title": "Menanyakan Kabar",
+          "fileName": "Menanyakan_kabar.mp4"
+        }
+      ]
+    },
+    {
+      "id": "cat02",
+      "name": "Cakapan Bahisya Kantor",
+      "description": "Cara bercakapan dalam bahasa isyarat di lingkungan kerja profesional.",
+      "videos": [
+        {
+          "id": "vid0201",
+          "title": "Minta bantuan",
+          "fileName": "Minta_bantuan.mp4"
+        },
+        {
+          "id": "vid0202",
+          "title": "Bertanya waktu rapat",
+          "fileName": "Bertanya_waktu_rapat.mp4"
+        }
+      ]
+    },
+    {
+      "id": "cat03",
+      "name": "Cakapan Bahisya rumah",
+      "description": "Cara bercakapan dalam bahasa isyarat di dalam lingkungan rumah tangga.",
+      "videos": [
+        {
+          "id": "vid0301",
+          "title": "Makan bersama",
+          "fileName": "Makan_bersama.mp4"
+        },
+        {
+          "id": "vid0302",
+          "title": "Bertanya waktu bangun",
+          "fileName": "Bertanya_waktu_bangun.mp4"
+        }
+      ]
+    },
+    {
+      "id": "cat04",
+      "name": "Bahisya Dasar",
+      "description": "Dasar-dasar Bahasa Isyarat Indonesia, termasuk alfabet, kata tanya dan sebagainya.",
+      "videos": [
+        {
+          "id": "vid0401",
+          "title": "Alfabet",
+          "fileName": "Alfabet.mp4"
+        },
+        {
+          "id": "vid0402",
+          "title": "Kata tanya",
+          "fileName": "Kata_tanya.mp4"
+        }
+      ]
+    }
+  ]
+}

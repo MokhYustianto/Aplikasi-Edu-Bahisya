@@ -1,0 +1,196 @@
+{
+  "quizzes": [
+    {
+      "quizId": "q01",
+      "categoryId": "cat01",
+      "title": "Kuis: Cakapan Bahisya Sehari-hari",
+      "questions": [
+        {
+          "q_id": "q01_01",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Halo.jpg",
+          "options": [
+            { "optionId": "a", "text": "Halo" },
+            { "optionId": "b", "text": "Sehat" },
+            { "optionId": "c", "text": "Maaf" }
+          ],
+          "correctAnswerId": "a"
+        },
+        {
+          "q_id": "q01_02",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Nama.jpg",
+          "options": [
+            { "optionId": "a", "text": "Halo" },
+            { "optionId": "b", "text": "Baik" },
+            { "optionId": "c", "text": "Nama" }
+          ],
+          "correctAnswerId": "c"
+        },
+        {
+          "q_id": "q01_03",
+          "questionText": "Manakah gambar isyarat yang sesuai dengan bahasa isyarat 'kamu' ?",
+          "options": [
+            {
+              "optionId": "a",
+              "image": "Kamu.jpg"
+            },
+            {
+              "optionId": "b",
+              "image": "Nama.jpg"
+            },
+            {
+              "optionId": "c",
+              "image": "Halo.jpg"
+            }
+          ],
+          "correctAnswerId": "a"
+        }
+      ]
+    },
+    {
+      "quizId": "q02",
+      "categoryId": "cat02",
+      "title": "Kuis: Cakapan Bahisya Kantor",
+      "questions": [
+        {
+          "q_id": "q02_01",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Rapat.jpg",
+          "options": [
+            { "optionId": "a", "text": "Waktu" },
+            { "optionId": "b", "text": "Rapat" },
+            { "optionId": "c", "text": "Bantu" }
+          ],
+          "correctAnswerId": "b"
+        },
+        {
+          "q_id": "q02_02",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Jam.jpg",
+          "options": [
+            { "optionId": "a", "text": "Bantu" },
+            { "optionId": "b", "text": "Rapat" },
+            { "optionId": "c", "text": "Jam" }
+          ],
+          "correctAnswerId": "c"
+        },
+        {
+          "q_id": "q02_03",
+          "questionText": "Manakah gambar isyarat yang sesuai dengan bahasa isyarat 'bantu'?",
+          "options": [
+            {
+              "optionId": "a",
+              "image": "Bantu.jpg"
+            },
+            {
+              "optionId": "b",
+              "image": "Halo2.jpg"
+            },
+            {
+              "optionId": "c",
+              "image": "Rapat.jpg"
+            }
+          ],
+          "correctAnswerId": "a"
+        }
+      ]
+    },
+    {
+      "quizId": "q03",
+      "categoryId": "cat03",
+      "title": "Kuis: Cakapan Bahisya Rumah",
+      "questions": [
+        {
+          "q_id": "q03_01",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Makan.jpg",
+          "options": [
+            { "optionId": "a", "text": "Makan" },
+            { "optionId": "b", "text": "Bangun" },
+            { "optionId": "c", "text": "Jam" }
+          ],
+          "correctAnswerId": "a"
+        },
+        {
+          "q_id": "q03_02",
+          "questionText": "Apa arti dari bahasa isyarat ini?",
+          "questionImage": "Pagi.jpg",
+          "options": [
+            { "optionId": "a", "text": "tadi" },
+            { "optionId": "b", "text": "pagi" },
+            { "optionId": "c", "text": "jam"  }
+          ],
+          "correctAnswerId": "b"
+        },
+        {
+          "q_id": "q03_03",
+          "questionText": "Manakah gambar isyarat yang sesuai dengan bahasa isyarat 'Bersama'?",
+          "options": [
+            {
+              "optionId": "a",
+              "image": "Bangun.jpg"
+            },
+            {
+              "optionId": "b",
+              "image": "Makan.jpg"
+            },
+            {
+              "optionId": "c",
+              "image": "Bersama.jpg"
+            }
+          ],
+          "correctAnswerId": "c"
+        }
+      ]
+    },
+    {
+      "quizId": "q04",
+      "categoryId": "cat04",
+      "title": "Kuis: Bahisya Dasar",
+      "questions": [
+        {
+          "q_id": "q04_01",
+          "questionText": "Alfabet Apakah dari bahasa isyarat ini?",
+          "questionImage": "Alfabet_N.jpg",
+          "options": [
+            { "optionId": "a", "text": "B" },
+            { "optionId": "b", "text": "O" },
+            { "optionId": "c", "text": "N" }
+          ],
+          "correctAnswerId": "c"
+        },
+        {
+          "q_id": "q04_02",
+          "questionText": "Alfabet Apakah dari bahasa isyarat ini?",
+          "questionImage": "Alfabet_A.jpg",
+          "options": [
+            { "optionId": "a", "text": "A" },
+            { "optionId": "b", "text": "C" },
+            { "optionId": "c", "text": "N" }
+          ],
+          "correctAnswerId": "a"
+        },
+        {
+          "q_id": "q04_03",
+          "questionText": "Manakah gambar isyarat yang sesuai dengan bahasa isyarat Alfabet 'M'?",
+          "options": [
+            {
+              "optionId": "a",
+              "image": "Alfabet_M.jpg"
+            },
+            {
+              "optionId": "b",
+              "image": "Alfabet_N.jpg"
+            },
+            {
+              "optionId": "c",
+              "image": "Alfabet_B.jpg"
+            }
+          ],
+          "correctAnswerId": "a"
+        }
+      ]
+    }
+  ]
+}
