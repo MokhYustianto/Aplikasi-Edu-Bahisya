@@ -13,11 +13,11 @@ Aplikasi "Edu Bahisya" adalah sebuah aplikasi multimedia berbasis yang dikembang
 
 **Fitur Utama Aplikasi :**<br>
 
--Fitur belajar percakapan bahasa isyarat sehari-hari (Cakapan Bahisya Sehari-hari)<br>
--Fitur belajar percakapan bahasa isyarat di kantor (Cakapan Bahisya Kantor)<br>
--Fitur belajar percakapan bahasa isyarat di rumah (Cakapan Bahisya Rumah)<br>
--Fitur belajar bahasa isyarat dasar (Bahisya Dasar)<br>
--Fitur kuis yang mencakupi empat macam kuis sesuai dengan empat fitur belajar bahasa isyarat<br>
+-Fitur belajar percakapan bahasa isyarat sehari-hari (**Cakapan Bahisya Sehari-hari**)<br>
+-Fitur belajar percakapan bahasa isyarat di kantor (**Cakapan Bahisya Kantor**)<br>
+-Fitur belajar percakapan bahasa isyarat di rumah (**Cakapan Bahisya Rumah**)<br>
+-Fitur belajar bahasa isyarat dasar (**Bahisya Dasar**)<br>
+-Fitur kuis yang mencakupi empat macam kuis sesuai dengan empat fitur belajar bahasa isyarat (**Kuis Bahisya**)<br>
 
 
 **Teknologi yang digunakan :**<br>
